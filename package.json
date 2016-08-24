@@ -1,0 +1,24 @@
+{
+  "name": "pretzel",
+  "version": "1.0.0",
+  "description": "A javascript cookie parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunpal/pretzel.git"
+  },
+  "keywords": [
+    "cookie",
+    "parser",
+    "cookie-parser"
+  ],
+  "author": "Varun Pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunpal/pretzel/issues"
+  },
+  "homepage": "https://github.com/varunpal/pretzel#readme"
+}
